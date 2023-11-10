@@ -3,7 +3,5 @@
 Solved maze using Breadth First Search (FDS) and Splinter.
 The website used is "https://www.the-art-of-web.com/javascript/maze-game/"
 
-A demostration of the algorithm in Gif 1 (slow speed) and Gif 2 (normal speed).
-
 # gif
-![normal_fds](gifs/normal_fds.gif)
+![normal_fds](gifs/normal_fds.gif=25x25)
