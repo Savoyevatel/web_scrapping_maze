@@ -6,4 +6,4 @@ The website used is "https://www.the-art-of-web.com/javascript/maze-game/"
 A demostration of the algorithm in Gif 1 (slow speed) and Gif 2 (normal speed).
 
 # gif
-![Savoyevatel](https://github.com/Savoyevatel/web_scrapping_maze/gifs/normal_fds.gif)
+![me](https://github.com/Savoyevatel/web_scrapping_maze/gifs/normal_fds.gif)
